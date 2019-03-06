@@ -1,2 +1,1 @@
-# second_repo
-Segona reposicio
+Hola
